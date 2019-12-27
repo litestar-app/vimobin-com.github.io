@@ -191,6 +191,14 @@ a{
 	 z-index:17;
 } 
 
+ #Video 
+{ 
+	 top: 2300px;
+	 left: 30%; 
+	 position: absolute; 
+	 z-index:30;
+} 
+
  #Interestedinwhatwedo 
 { 
 	 top: 2700px; 
